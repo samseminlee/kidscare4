@@ -1,9 +1,10 @@
 
-# Childcare Matching MVP - Final Rebuild
+# Childcare Matching MVP (Full Features, No Login)
 
-- Parent care request + Stripe payment (start time + hours)
-- Sitter registration
-- Google Login (NextAuth.js)
-- Korean/English language support (i18next)
-- TailwindCSS design
-- Deploy-ready for GitHub + Vercel
+- Parent Care Request + Stripe Payment (Start Time + Hours)
+- Sitter Registration (with photo URL)
+- Review and Star Rating System
+- Korean/English Language Support (i18next)
+- TailwindCSS Design
+- No Login Required
+- Deploy-Ready for GitHub + Vercel
