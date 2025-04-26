@@ -1,5 +1,5 @@
 {
-  "name": "childcare-mvp-final-no-login",
+  "name": "childcare-mvp-final-rebuild",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
@@ -11,6 +11,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "stripe": "^11.18.0",
+    "next-auth": "^4.22.1",
     "i18next": "^22.4.9",
     "react-i18next": "^12.3.1"
   }
